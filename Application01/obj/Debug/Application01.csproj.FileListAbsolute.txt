@@ -1,0 +1,7 @@
+C:\Users\trifina.vijayakumar\source\repos\Application01\Application01\bin\Debug\Application01.exe.config
+C:\Users\trifina.vijayakumar\source\repos\Application01\Application01\bin\Debug\Application01.exe
+C:\Users\trifina.vijayakumar\source\repos\Application01\Application01\bin\Debug\Application01.pdb
+C:\Users\trifina.vijayakumar\source\repos\Application01\Application01\obj\Debug\Application01.csproj.AssemblyReference.cache
+C:\Users\trifina.vijayakumar\source\repos\Application01\Application01\obj\Debug\Application01.csproj.CoreCompileInputs.cache
+C:\Users\trifina.vijayakumar\source\repos\Application01\Application01\obj\Debug\Application01.exe
+C:\Users\trifina.vijayakumar\source\repos\Application01\Application01\obj\Debug\Application01.pdb
